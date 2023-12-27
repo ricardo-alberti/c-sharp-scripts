@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pSV/23A9/9+HoOqzEoQb05A29dXQRpWyW1Fw0P706rEF02OrjGVZ17Wlr7NKfR+c/gqRuRFfIlncfJXBzmzijw==",
+  "success": true,
+  "projectFilePath": "/home/rick/c-sharp-scripts/console-prompter/console-prompter.csproj",
+  "expectedPackageFiles": [
+    "/home/rick/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

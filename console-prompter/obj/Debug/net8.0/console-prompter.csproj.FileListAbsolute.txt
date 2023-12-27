@@ -1,0 +1,14 @@
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.GeneratedMSBuildEditorConfig.editorconfig
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.AssemblyInfoInputs.cache
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.AssemblyInfo.cs
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.csproj.CoreCompileInputs.cache
+/home/rick/c-sharp-scripts/console-prompter/out/console-prompter
+/home/rick/c-sharp-scripts/console-prompter/out/console-prompter.deps.json
+/home/rick/c-sharp-scripts/console-prompter/out/console-prompter.runtimeconfig.json
+/home/rick/c-sharp-scripts/console-prompter/out/console-prompter.dll
+/home/rick/c-sharp-scripts/console-prompter/out/console-prompter.pdb
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.dll
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/refint/console-prompter.dll
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.pdb
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/console-prompter.genruntimeconfig.cache
+/home/rick/c-sharp-scripts/console-prompter/obj/Debug/net8.0/ref/console-prompter.dll

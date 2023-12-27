@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIywjCamjMY6H1ynru9advT9n9PbFr5Uv7gxZdJy/bclPmdj9Oc5fpUUchHLmFVXXGrOiZfQYLWxhnKaIVVPyw==",
+  "success": true,
+  "projectFilePath": "/home/rick/c-sharp-scripts/web/web.csproj",
+  "expectedPackageFiles": [
+    "/home/rick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

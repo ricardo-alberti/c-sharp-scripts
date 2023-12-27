@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEILfTcBogc0x38MtSS9CMeukIJ3PMcZ9/CGO4hU1FXdh3T8lK93HS523oBCUzIP3eewoXH93DMVCx0wtecGnQ==",
+  "success": true,
+  "projectFilePath": "/home/rick/c-sharp-scripts/feetToInches/feetToInches.csproj",
+  "expectedPackageFiles": [
+    "/home/rick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

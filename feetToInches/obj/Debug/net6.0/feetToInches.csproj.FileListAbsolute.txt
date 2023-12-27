@@ -1,0 +1,15 @@
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.csproj.AssemblyReference.cache
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.GeneratedMSBuildEditorConfig.editorconfig
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.AssemblyInfoInputs.cache
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.AssemblyInfo.cs
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.csproj.CoreCompileInputs.cache
+/home/rick/c-sharp-scripts/feetToInches/build_output/feetToInches
+/home/rick/c-sharp-scripts/feetToInches/build_output/feetToInches.deps.json
+/home/rick/c-sharp-scripts/feetToInches/build_output/feetToInches.runtimeconfig.json
+/home/rick/c-sharp-scripts/feetToInches/build_output/feetToInches.dll
+/home/rick/c-sharp-scripts/feetToInches/build_output/ref/feetToInches.dll
+/home/rick/c-sharp-scripts/feetToInches/build_output/feetToInches.pdb
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.dll
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/ref/feetToInches.dll
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.pdb
+/home/rick/c-sharp-scripts/feetToInches/obj/Debug/net6.0/feetToInches.genruntimeconfig.cache

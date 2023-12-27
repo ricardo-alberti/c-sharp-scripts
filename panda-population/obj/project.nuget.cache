@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22bVRkx4/XiHBNCEy7v0nwtRQRk2npESc0CIfZE4eaZ3zs/bHWclHr15imefVcjcf9ZYvtU65KtH38jIckTzDQ==",
+  "success": true,
+  "projectFilePath": "/home/rick/c-sharp-scripts/panda-population/c-sharp-scripts.csproj",
+  "expectedPackageFiles": [
+    "/home/rick/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JIigU/gMf+J/AMHruMfqHf9F0S+nxVgFctjv2NVPTs36s6XtWjjl31gnN7Qpa0inKzraQg80axrfpDJhRhEvMg==",
+  "success": true,
+  "projectFilePath": "/home/rick/c-sharp-scripts/web-api/web-api.csproj",
+  "expectedPackageFiles": [
+    "/home/rick/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
